@@ -1,0 +1,45 @@
+body {
+    margin: 0 auto;
+    background-image: url("https://dx0bow4ahkvth.cloudfront.net/web/img/layout-background.jpg?4de75f");
+    background-position: center top;
+}
+h1 {
+    color: 	#F8F8FF;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'comic Sans MS';
+    text-align: center;
+}
+h2 {
+    color: #DCDCDC;
+    font-family: 'comic Sans MS';
+    font-size: 18px;
+    text-align: center;
+}
+table {
+    color: #DCDCDC;
+    font-family: 'comic Sans MS';
+    font-size: 14px;
+    margin-right: auto;
+    margin-left: auto;
+}
+p {
+    color: #DCDCDC;
+    font-family: 'comic Sans MS';
+    font-size: 14px;
+}
+#wrapper {
+    clear: both;
+    width: 850px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1080px;
+    padding-top:220px;
+}
+#menubar {
+
+  align-items: center;
+  width: 100%;
+
+}
